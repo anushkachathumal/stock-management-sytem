@@ -1,0 +1,9 @@
+c:\users\chathumal\documents\visual studio 2015\Projects\abcd\abcd\bin\Debug\abcd.exe.config
+c:\users\chathumal\documents\visual studio 2015\Projects\abcd\abcd\bin\Debug\abcd.exe
+c:\users\chathumal\documents\visual studio 2015\Projects\abcd\abcd\bin\Debug\abcd.pdb
+c:\users\chathumal\documents\visual studio 2015\Projects\abcd\abcd\obj\Debug\abcd.csprojResolveAssemblyReference.cache
+c:\users\chathumal\documents\visual studio 2015\Projects\abcd\abcd\obj\Debug\abcd.Form1.resources
+c:\users\chathumal\documents\visual studio 2015\Projects\abcd\abcd\obj\Debug\abcd.Properties.Resources.resources
+c:\users\chathumal\documents\visual studio 2015\Projects\abcd\abcd\obj\Debug\abcd.csproj.GenerateResource.Cache
+c:\users\chathumal\documents\visual studio 2015\Projects\abcd\abcd\obj\Debug\abcd.exe
+c:\users\chathumal\documents\visual studio 2015\Projects\abcd\abcd\obj\Debug\abcd.pdb
